@@ -110,10 +110,10 @@ def BASEBALLtest(team):
     baseBALLtest.Whole_name,
     baseBALLtest.start_year,
     baseBALLtest.World_Championships,
-    baseBatting.BA,
-    baseBatting.OBP,
-    baseBatting.SLG,
-    baseBatting.OPS,
+    # baseBatting.BA,
+    # baseBatting.OBP,
+    # baseBatting.SLG,
+    # baseBatting.OPS,
 
    
   ]
@@ -126,10 +126,10 @@ def BASEBALLtest(team):
     baseballtest_data["Whole_name"] = result[0]
     baseballtest_data["start_year"] = result[1]
     baseballtest_data["World_Championships"] = result[2]
-    baseballbatting_data["BA"] = result[3]
-    baseballbatting_data["OBP"] = result[4]
-    baseballbatting_data["SLG"] = result[5]
-    baseballbatting_data["OPS"] = result[6]
+    # baseballbatting_data["BA"] = result[3]
+    # baseballbatting_data["OBP"] = result[4]
+    # baseballbatting_data["SLG"] = result[5]
+    # baseballbatting_data["OPS"] = result[6]
 
  
 
